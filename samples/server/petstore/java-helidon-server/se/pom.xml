@@ -13,11 +13,11 @@
     <artifactId>petstore-helidon-server-se</artifactId>
     <version>1.0.0</version>
     <name>petstore-helidon-server-se</name>
-    <description>This spec is mainly for testing Petstore server and contains fake endpoints, models. Please do not use this for any other purpose. Special characters: \&quot; \\</description>
+    <description>This spec is mainly for testing Petstore server and contains fake endpoints, models. Please do not use this for any other purpose. Special characters: \" \\</description>
 
     <properties>
         <mainClass>org.openapitools.server.Main</mainClass>
-        <version.jackson.databind.nullable>0.2.3</version.jackson.databind.nullable>
+        <version.jackson.databind.nullable>0.2.6</version.jackson.databind.nullable>
     </properties>
 
     <dependencies>
