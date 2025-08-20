@@ -11,7 +11,7 @@
     </parent>
     <artifactId>petstore-helidon-client-se</artifactId>
     <name>petstore-helidon-client-se</name>
-        <description>This spec is mainly for testing Petstore server and contains fake endpoints, models. Please do not use this for any other purpose. Special characters: \&quot; \\</description>
+        <description>This spec is mainly for testing Petstore server and contains fake endpoints, models. Please do not use this for any other purpose. Special characters: \" \\</description>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
@@ -39,7 +39,7 @@
         <dependency>
             <groupId>org.openapitools</groupId>
             <artifactId>jackson-databind-nullable</artifactId>
-            <version>0.2.2</version>
+            <version>0.2.7</version>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
