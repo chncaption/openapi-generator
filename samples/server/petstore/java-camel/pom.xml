@@ -117,7 +117,7 @@ Do not edit the class manually.
         <dependency>
             <groupId>org.openapitools</groupId>
             <artifactId>jackson-databind-nullable</artifactId>
-            <version>0.2.1</version>
+            <version>0.2.7</version>
         </dependency>
         <dependency>
             <groupId>io.swagger</groupId>
