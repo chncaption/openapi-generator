@@ -11,12 +11,12 @@
     </parent>
     <artifactId>petstore-helidon-server-mp</artifactId>
     <name>petstore-helidon-server-mp</name>
-        <description>This spec is mainly for testing Petstore server and contains fake endpoints, models. Please do not use this for any other purpose. Special characters: \&quot; \\</description>
+        <description>This spec is mainly for testing Petstore server and contains fake endpoints, models. Please do not use this for any other purpose. Special characters: \" \\</description>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <properties>
-        <version.jackson.databind.nullable>0.2.3</version.jackson.databind.nullable>
+        <version.jackson.databind.nullable>0.2.7</version.jackson.databind.nullable>
     </properties>
 
     <dependencies>
